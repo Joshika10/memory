@@ -1,0 +1,15 @@
+div
+{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+}
+
+p{
+text-align: center;
+}
+
+body
+{
+background-color: #ffe4c4;
+}
